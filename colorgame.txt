@@ -1,0 +1,14 @@
+---user is here
+username-918917626217
+password-new_user_100
+
+----admin username and password
+admin url-http://127.0.0.1/color/correctadmin/
+admin username-admin
+admin password-new_user_100
+
+
+-----here we wnat to add peried id
+ Table: tbl_gameid
+
+
